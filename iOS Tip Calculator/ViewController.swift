@@ -37,7 +37,6 @@ class ViewController: UIViewController {
 
 
     @IBAction func billAmountChanged(_ sender: UITextField) {
-        print("value changed")
         updateBill()
     }
     
